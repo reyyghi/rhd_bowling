@@ -1,4 +1,4 @@
-# This is the ESX, QBOX & OX Vesion of Bowling Script
+# This is the ESX, QBOX & OX Version of Bowling Script
 
 # Dependencies
 [ox_lib](https://github.com/overextended/ox_lib/releases)
